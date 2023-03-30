@@ -1,5 +1,5 @@
 {
     "description": "Template used by hh_chat",
-    "prompt_input": "{input}+{output}",
+    "prompt_input": "{input}",
     "response_split": ""    
 }
